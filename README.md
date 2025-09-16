@@ -2,8 +2,8 @@
 
 > Репозиторий: hw-37\
 > Выполнил: Асадбек Асадбеков\
-> Дата: сентябрь 2025
-> Ссылка на манифесты: https://github.com/asad-bekov/hw-37/blob/main/manifests/
+> Дата: сентябрь 2025\
+> Ссылка: [Манифесты](https://github.com/asad-bekov/hw-37/blob/main/manifests/)
 
 
 ## Цель задания
